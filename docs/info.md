@@ -13,7 +13,7 @@ Takes in three inputs and outputs 2. It's a one bit full adder.
 Explain how your project works
 It adds binary inputs. It takes three inputs and outputs two. A Sum and a Carry. 
 ## How to test
-
+You can connect Two LEDs to Output 1 and Output 2 and see if it matches the Truth table. 
 Explain how to use your project
 ALUs and CPUs use One bit full adders to do math in binary. 
 

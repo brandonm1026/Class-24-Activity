@@ -10,6 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 Takes in three inputs and outputs 2. It's a one bit full adder. 
 Explain how your project works
+its a one bit full adder
 It adds binary inputs. It takes three inputs and outputs two. A Sum and a Carry. 
 ## How to test
 You can connect Two LEDs to Output 1 and Output 2 and see if it matches the Truth table. 

@@ -8,12 +8,14 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+Takes in three inputs and outputs 2. It's a one bit full adder. 
 
 Explain how your project works
-
+It adds binary inputs. It takes three inputs and outputs two. A Sum and a Carry. 
 ## How to test
 
 Explain how to use your project
+ALUs and CPUs use One bit full adders to do math in binary. 
 
 ## External hardware
 
